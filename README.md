@@ -184,4 +184,4 @@ Para obter os valores usados nas perguntas, rode `relatorio("banco")` no templat
 
 ## Dupla
 
-Dupla: Matheus Barros Wenes Vieira - 2022213521 / Yehoshua Vieira Pimentel Bezerra - 20242130146
+Dupla: Matheus Barros Wenes Vieira - 2022213521 / Yehoshua Vieira Pimentel Bezerra - 20242130146.
