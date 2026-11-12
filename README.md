@@ -182,6 +182,6 @@ Um banco quer agrupar 160 clientes para oferecer pacotes de produtos adequados a
 
 Para obter os valores usados nas perguntas, rode `relatorio("banco")` no template: a função imprime μ e σ das colunas, os tamanhos dos grupos, o histórico de J, os centroides nas unidades originais, a silhueta e a curva de J(k) para k de 1 a 8, além da comparação com a solução sem padronização. Interprete os perfis encontrados e responda às perguntas no sistema da disciplina.
 
-## Entrega e avaliação
+## Dupla
 
-Os códigos deverão estar em um repositório no GitHub, e o link do repositório deverá ser preenchido na planilha do curso.
+Dupla: Matheus Barros Wenes Vieira - 2022213521 / Yehoshua Vieira Pimentel Bezerra - 20242130146
